@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=A06CD5&center=true&vCenter=true&width=640&lines=Might+be+teaching+right+now;Might+be+shipping+desktop+%2B+web+apps+right+now;Might+be+building+something+cool;" alt="Might be teaching right now, Might be building one cool game right now, Might be solving a real world problem with software right now;" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=A06CD5&center=true&vCenter=true&width=640&lines=Might+be+teaching+right+now;Might+be+solving+problems+%2B+with+software+right+now;Might+be+building+something+cool;" alt="Might be teaching right now, Might be building one cool game right now, Might be solving a real world problem with software right now;" />
 </p>
 
 ### 👋 About me
