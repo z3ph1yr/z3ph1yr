@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5B2A86,100:C996DE&height=200&section=header&text=z3ph1yr&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=Builder%20%C2%B7%20Teacher%20%C2%B7%20Game%20dev&descSize=18&descAlignY=58" alt="z3ph1yr" width="100%" />
+  <img src="./assets/banner-dark.svg" alt="z3ph1yr. I build software, teach algorithms, and I'm making a game." width="100%" />
 </p>
 
 <p align="center">
